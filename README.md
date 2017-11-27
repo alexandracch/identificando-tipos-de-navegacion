@@ -120,6 +120,18 @@
 
 12. Faceteada y local. Me dan esas opciones para navegar y cada una me lleva a una ventana diferente. 
 
+![navigation](assets/img/medium-2.png)
+
+13. Global y faceteada. Me dan opciones en donde navegar y se mantienen en toda la navegación.
+
+14. En línea y local. Esta opción de navegación esta sola y me lleva a otra ventana.
+
+15. Faceteada y local. Me dan esas opciones para navegar y cada una me lleva a una ventana diferente. 
+
+16. Faceteada. Porque puedo navegar en esas opciones. No es Global porque no se mantiene en otras ventanas, solo está presente en la ventana principal.
+
+
+
 
 
 

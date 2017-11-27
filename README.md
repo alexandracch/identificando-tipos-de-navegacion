@@ -60,6 +60,16 @@
 
 3. Local. 
 
+![navigation](assets/img/github-1.png)
+
+4. Faceteada.
+
+5. Local.
+
+6. En línea.
+
+
+
 
 
 

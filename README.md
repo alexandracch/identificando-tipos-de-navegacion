@@ -62,7 +62,8 @@
 
 ![navigation](assets/img/github-1.png)
 
-4. Faceteada.
+4. Faceteada  y en línea.
+   Porque me dan esas opciones para navegar pero estan puestos como enlaces.
 
 5. Local.
 

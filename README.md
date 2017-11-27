@@ -108,10 +108,17 @@
 
 7. En línea. 
 
-8. Fcateada y local. Me dan esas opciones para navegar y cada una me lleva a una ventana diferente. 
+8. Faceteada y local. Me dan esas opciones para navegar y cada una me lleva a una ventana diferente. 
 
 ![navigation](assets/img/medium-1.png)
 
+9. Global y faceteada. Me dan opciones en donde navegar y se mantienen en toda la navegación.
+
+10. En línea y local. Esta opción de navegación esta sola y me lleva a otra ventana.
+
+11.  En línea.
+
+12. Faceteada y local. Me dan esas opciones para navegar y cada una me lleva a una ventana diferente. 
 
 
 

@@ -39,9 +39,11 @@
 
 8. Local. 
 
-![navigation](assets/img/breather-9.png)
+![navigation](assets/img/breather-4.png)
 
-9. Faceteada
+9. Faceteada.
+
+
 
 
 

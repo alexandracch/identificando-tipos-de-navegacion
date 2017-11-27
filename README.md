@@ -69,6 +69,16 @@
 
 6. En línea.
 
+![navigation](assets/img/github-2.png)
+
+7. En línea y local. Porque está puesto como un enlace que me lleva a otra página.
+
+8. Local.
+
+9. Local.
+
+10. Faceteada.
+
 
 
 

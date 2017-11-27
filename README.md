@@ -69,7 +69,7 @@
 
 6. En línea.
 
-![navigation](assets/img/github-2.png)
+![navigation](assets/img/github-3.png)
 
 7. En línea y local. Porque está puesto como un enlace que me lleva a otra página.
 
@@ -77,7 +77,18 @@
 
 9. Local.
 
-10. Faceteada.
+10. Faceteada.  
+
+![navigation](assets/img/github-4.png)
+
+11. Faceteada.
+
+12. Local y Faceteada.
+    Porque me dan esas opcines para navegar y ellas me llevan a otras páginas.
+
+![navigation](assets/img/github-5.png)
+
+13. Faceteada.
 
 
 

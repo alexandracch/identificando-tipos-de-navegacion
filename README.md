@@ -49,6 +49,19 @@
 
 11. Faceteada.  
 
+![navigation](assets/img/breather-8.png)
+
+12. Faceteada.
+
+13. Local. 
+
+![navigation](assets/img/breather-9.png)
+
+14. Filtrada. Me dan opciones para escoger y según lo que yo escoja se muestran los resultados de mi búsqueda.
+
+15. Global
+
+
 
 ## GitHub
 

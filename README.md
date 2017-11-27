@@ -16,7 +16,7 @@
 
 ## Breather
 
-![navigation](assets/img/breather.png)
+![navigation](assets/img/breather-1.png)
 
 
 1. Navegación Global.  

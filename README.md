@@ -88,7 +88,31 @@
 
 ![navigation](assets/img/github-5.png)
 
-13. Faceteada.
+13. Faceteada. 
+
+## Medium
+
+![navigation](assets/img/medium.png)
+
+1. Local.
+
+2. Local.
+
+3. Suplementaria. 
+
+4. Global y faceteada. Me dan opciones en donde navegar y se mantienen en toda la navegación.
+
+5. En línea y local. Esta opción de navegación esta sola y me lleva a otra ventana.
+
+6. En línea y local. Esta opción de navegación esta sola y me lleva a otra ventana.
+
+7. En línea. 
+
+8. Fcateada y local. Me dan esas opciones para navegar y cada una me lleva a una ventana diferente. 
+
+![navigation](assets/img/medium-1.png)
+
+
 
 
 
